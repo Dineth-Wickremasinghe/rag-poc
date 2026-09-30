@@ -1,0 +1,7 @@
+msal
+requests
+python-dotenv
+pymupdf
+sentence-transformers
+qdrant-client
+kafka-python
